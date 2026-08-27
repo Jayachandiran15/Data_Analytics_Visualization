@@ -1,0 +1,9 @@
+[Figure: Two side-by-side plots]
+Left: "Normal Curve - Glucose" - histogram with KDE (blue) and overlaid normal
+distribution curve (red), x-axis Glucose (70-200), y-axis Density.
+
+Right: "Normal Curve - BMI" - histogram with KDE (blue) and overlaid normal
+distribution curve (red), x-axis BMI (15-45), y-axis Density.
+
+RESULT:
+The normal curves show the distribution of Glucose and BMI, indicating data spread and skewness.
